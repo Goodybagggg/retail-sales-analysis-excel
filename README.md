@@ -59,7 +59,7 @@ retail-sales-analysis-excel/
 ```
 
 ## Charts
-![Revenue by Country](screenshots/revenue_by_country.png)
+<!-- Add screenshot, then remove these markers: ![Revenue by Country](screenshots/revenue_by_country.png) -->
 
 ## Author
 **Olumide Goodness**
